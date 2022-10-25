@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "808967734982",
+    "project_id": "ga-managemrnt",
+    "storage_bucket": "ga-managemrnt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808967734982:android:5722f72855f689788b39c7",
+        "android_client_info": {
+          "package_name": "com.stn.lms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808967734982-4p4d492keds4aobums8rik9vfgu2gj74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhOOLcD2HJYaTCotj8TaDQ0JmUnBd0EJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808967734982-4p4d492keds4aobums8rik9vfgu2gj74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
